@@ -2,7 +2,7 @@
     "configurations": [
         {
             "name": "MinGW",
-            "compilerPath": "D:\gcc\mingw64\bin\gcc.exe",
+            "compilerPath": "D:\gcc\mingw64\bin\clang.exe",
             "includePath": [
                 "${workspaceFolder}"
             ],
