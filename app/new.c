@@ -29,7 +29,7 @@ int main()
 		printf("\n You have enetered an Invalid Operator ");
 
 	}
-/*hello and bye*/	
+/*hello and bye and check*/	
 	getch();
 
 	return 0;
